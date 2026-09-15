@@ -6,7 +6,7 @@ from sklearn. linear_model import LogisticRegression from sklearn metrics import
 # this streamlit is for web based application project
 # Web Page Code
 st. title("HEALTH INSURANCE PREDICTION")
-img_url = https://cdn.zeebiz.com/sites/default/files/2026/03/09/401943-health-insurance.png"
+img_url = "https://cdn.zeebiz.com/sites/default/files/2026/03/09/401943-health-insurance.png"
 st. image (img_url)
 
 # LOAD DATA and ML MODEL PART
